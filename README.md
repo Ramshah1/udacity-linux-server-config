@@ -2,9 +2,11 @@
 
 Installation of packages and libraries on a Linux Server to host a web application. It includes installing updates, securing server, creating user login and setting up database.
 
-EC2 url: [http://ec2-18-194-53-53.eu-central-1.compute.amazonaws.com](http://ec2-18-194-53-53.eu-central-1.compute.amazonaws.com)
+~~EC2 url: http://ec2-18-194-53-53.eu-central-1.compute.amazonaws.com~~
 
-IP address: [http://18.194.53.53/](http://18.194.53.53/)
+~~IP address: http://18.194.53.53/~~
+
+**Edit**: The above instance has been shut down. So the above urls are no more accessible.
 
 SSH Port: 2200
 
